@@ -1,0 +1,30 @@
+{
+  "name": "react-native-draggable-list",
+  "version": "1.0.0",
+  "description": "List for React-Native which can be scrolled and/or docked to arbitrarbitrarily many positions on screen. Behaves like the list in Google Maps android app. This functionality cannot be achieved with ListView hence this JS implementation. Performance can suffer when rendering long lists, consider using onPositionChange to render the extra elements when needed, the childrenHeight prop means not rendering children immediately will not interfere with the scroll behaviour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saberking/react-native-draggable-list.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "draggable",
+    "list",
+    "ListView",
+    "bottom",
+    "sheet",
+    "bottom-sheet",
+    "react-native"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saberking/react-native-draggable-list/issues"
+  },
+  "homepage": "https://github.com/saberking/react-native-draggable-list#readme"
+}
